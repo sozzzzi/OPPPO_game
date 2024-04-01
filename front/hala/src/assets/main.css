@@ -1,0 +1,11 @@
+@import './base.css';
+@import './main-menu.css';
+@import './game-page.css';
+
+#app {
+  display: flex;
+  width: 100dvw;
+  height: 100dvh;
+  text-align: center;
+  align-items: center;
+}
